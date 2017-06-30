@@ -9,7 +9,7 @@ Vue.use(axiosPlugin);
 ```
 
 ## feature
-```
+```js
 new Vue({
   data: {
     result: '' 
